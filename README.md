@@ -16,9 +16,9 @@ The script scans your desktop for files and categorizes them into the following 
 
 ## Usage
 
-1. Clone this repository or download the script (`organize_desktop.py`).
+1. Clone this repository or download the script `organize_desktop.py`.
 2. Open a terminal and navigate to the directory where the script is located.
-3. Update the 'desktop_path' to whatever path you want to organize.
+3. Update the `desktop_path` to whatever path you want to organize.
 
     ```bash
     desktop_path = os.path.expanduser("F:\PC Files\Desktop")
