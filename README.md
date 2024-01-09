@@ -1,4 +1,4 @@
-# Desktop File Organizer
+# File Organizer
 
 Organize your cluttered desktop with this Python script! This simple script categorizes your files based on their types and moves them into specific folders for a cleaner desktop.
 
