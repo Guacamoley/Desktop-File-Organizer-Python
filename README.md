@@ -4,7 +4,7 @@ Organize your cluttered desktop with this Python script! This simple script cate
 
 ## How it Works
 
-The script scans your desktop for files and categorizes them into the following folders (You can also easily add your own categories as well):
+The script scans the selected location's files and categorizes them into the following folders (You can also easily add your own categories as well):
 
 - **Images**: .jpg, .jpeg, .png, .gif, .bmp
 - **Documents**: .doc, .docx, .txt, .pdf, .xlsx, .pptx
@@ -37,6 +37,14 @@ The script scans your desktop for files and categorizes them into the following 
 ## Customization
 
 Feel free to modify the script according to your preferences. You can add more file types or customize folder names as needed.
+
+## Upcoming Features
+
+Stay tuned for upcoming features! I'm working on enhancing the file organizer script. Here's a sneak peek at what's coming:
+
+- **Interactive Mode**: Organize your files with a guided, interactive interface.
+- **Scheduled Organization**: Set up automated schedules for file organization.
+- **Smart Sorting**: Intelligent sorting based on usage patterns.
 
 ## Contributing
 
